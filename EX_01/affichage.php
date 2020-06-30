@@ -1,7 +1,7 @@
 <?php
 
 function afficher_titre($nom_produit){
-    echo "<h1> Fiche produit : {$nom_produit} <h/1>";
+    echo "<h1> Fiche produit : {$nom_produit} </h1>";
 }
 
 function afficher_description($couleur,$prix){
